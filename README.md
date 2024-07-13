@@ -2,7 +2,7 @@
 - 👀 I’m interested in job with web dev or game dev
 - 🌱 I’m currently learning "git"
 - 📫 How to reach me ig: @o_Jv77
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
